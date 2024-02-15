@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <TextView
+        android:orientation="vertical" android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/textViewLeft"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:layout_marginRight="5sp"
+        android:layout_marginEnd="5sp"
+        android:paddingLeft="3sp"
+        android:layout_alignRight="@+id/horizontal_divider"
+        android:layout_alignEnd="@+id/horizontal_divider"
+        android:paddingRight="3sp"
+        android:text="knippen &amp; wassen"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:gravity="left">
+
+    </TextView>
+
+    <TextView
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/textViewRight"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:paddingLeft="3sp"
+        android:paddingBottom="6sp"
+        android:paddingRight="3sp"
+        android:layout_alignLeft="@+id/horizontal_divider"
+        android:layout_alignStart="@+id/horizontal_divider"
+        android:text="€ 3,75"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:gravity="center"
+        android:layout_marginLeft="5sp">
+
+    </TextView>
+
+    <View
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#FFFFFF"
+        android:id="@+id/horizontal_divider"
+        android:layout_width="2sp" />
+</RelativeLayout>

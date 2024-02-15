@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loxx Hair and More</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_main2">LOXX Hair</string>
+
+    <string name="home">Home</string>
+    <string name="info">Informatie</string>
+    <string name="e_mail_string">info@loxxhairandmore.nl</string>
+    <string name="google_maps_location_url_string">https://www.google.nl/maps/place/Burgemeester+Brokxlaan+1708,+5041SH+Tilburg/@51.5619336,5.0739946,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6be3aea6db94d:0xc2414137cec247b2!8m2!3d51.5619336!4d5.0761833</string>
+    <string name="action_call_phone_number_string">tel:013–5114279</string>
+    <string name="webview_url_string">https://loxxhairandmore.planetzelf.com/m/</string>
+    <string name="e_mail_button_description_string">E-mail</string>
+    <string name="call_us_button_desc_string">Bel ons</string>
+    <string name="adres_button_desc_string">Adres</string>
+    <string name="info_button_desc_string">Informatie</string>
+    <string name="openinghours_button_desc_string">Openingstijden</string>
+    <string name="tariff_button_desc_string">Tarieven</string>
+    <string name="appointment_button_desc_string">Maak een afspraak</string>
+    <string name="monday_string">maandag</string>
+    <string name="tuesday_string">dinsdag</string>
+    <string name="wednesday_string">woensdag</string>
+    <string name="thursday_string">donderdag</string>
+    <string name="friday_string">vrijdag</string>
+    <string name="saturday_string">zaterdag</string>
+    <string name="sunday_string">zondag</string>
+    <string name="ten_till_seven">13:00 – 19:00</string>
+    <string name="eleven_till_seven">11:00 – 19:00</string>
+    <string name="nine_till_three">9:30 – 15:30</string>
+    <string name="ten_till_six">10:00 – 18:00</string>
+    <string name="twelve_till_seven">10:00 – 19:00</string>
+    <string name="closed">Gesloten</string>
+    <string name="internet_not_detected">Er is geen internetverbinding gedetecteerd</string>
+
+    <string name="openinghours_firebase_key">openingstijden</string>
+    <string name="monday_key">Maandag</string>
+    <string name="tuesday_key">Dinsdag</string>
+    <string name="wednesday_key">Woensdag</string>
+    <string name="thursday_key">Donderdag</string>
+    <string name="friday_key">Vrijdag</string>
+    <string name="saturday_key">Zaterdag</string>
+    <string name="sunday_key">Zondag</string>
+
+    <string name="short1">Kort</string>
+    <string name="washing">wassen</string>
+    <string name="cutting">knippen</string>
+    <string name="cutting_and_drying">knippen &amp; drogen</string>
+    <string name="cutting_and_styling">knippen &amp; stylen</string>
+    <string name="color">uitgroei verven</string>
+    <string name="total_coloring">totale kleuring</string>
+    <string name="kamst_bars">kamstrepen/folie</string>
+    <string name="lowlights">lowlights/folie</string>
+    <string name="extra_color">extra kleur</string>
+    <string name="permanent">permanent</string>
+    <string name="mask">masker</string>
+    <string name="trimming">baard trimmen</string>
+    <string name="pony">pony knippen</string>
+    <string name="long1">lang</string>
+
+    <string name="from_fifty_five">v.a. € 55,-</string>
+    <string name="from_forty_five">v.a. € 45,-</string>
+    <string name="from_fifty">v.a. € 50,-</string>
+    <string name="from_ninety">v.a. € 90,-</string>
+
+</resources>

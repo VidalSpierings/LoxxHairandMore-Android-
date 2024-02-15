@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "128489787915",
+    "firebase_url": "https://loxx-hair-and-more.firebaseio.com",
+    "project_id": "loxx-hair-and-more",
+    "storage_bucket": "loxx-hair-and-more.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128489787915:android:7f7c4aa63bf7524f",
+        "android_client_info": {
+          "package_name": "com.entecmedia.loxxhairandmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128489787915-jbn3l8s3kuqkk9pj23oqgpp2stmi2hcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entecmedia.loxxhairandmore",
+            "certificate_hash": "f47a471db65526246195d2c90b3f11e4af407d1b"
+          }
+        },
+        {
+          "client_id": "128489787915-cu95820o2ub0l52162b6bep3tqvqhis5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entecmedia.loxxhairandmore",
+            "certificate_hash": "d36c5bb4673f8742ea246c4a96c617108a3e51b8"
+          }
+        },
+        {
+          "client_id": "128489787915-c2jau1ep3746eo9p5jsffs0lvhicg5gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbHzUQ2V5yU7Ni_EwwCYXhE0CluC88jI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128489787915-c2jau1ep3746eo9p5jsffs0lvhicg5gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

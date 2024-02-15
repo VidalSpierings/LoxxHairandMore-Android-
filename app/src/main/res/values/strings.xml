@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">LOXX Hair and More</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">LOXX Hair</string>
+
+    <string name="home">Home</string>
+    <string name="info">Information</string>
+    <string name="e_mail_string">info@loxxhairandmore.nl</string>
+    <string name="google_maps_location_url_string">https://www.google.nl/maps/place/Burgemeester+Brokxlaan+1708,+5041SH+Tilburg/@51.5619336,5.0739946,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6be3aea6db94d:0xc2414137cec247b2!8m2!3d51.5619336!4d5.0761833</string>
+    <string name="action_call_phone_number_string">tel:013–5114279</string>
+    <string name="webview_url_string">https://loxxhairandmore.planetzelf.com/m/</string>
+    <string name="e_mail_button_description_string">E-mail</string>
+    <string name="call_us_button_desc_string">Call Us</string>
+    <string name="adres_button_desc_string">Address</string>
+    <string name="info_button_desc_string">Information</string>
+    <string name="openinghours_button_desc_string">Opening Hours</string>
+    <string name="tariff_button_desc_string">Tariffs</string>
+    <string name="appointment_button_desc_string">Make an Appointment</string>
+    <string name="monday_string">Monday</string>
+    <string name="tuesday_string">Tuesday</string>
+    <string name="wednesday_string">Wednesday</string>
+    <string name="thursday_string">Thursday</string>
+    <string name="friday_string">Friday</string>
+    <string name="saturday_string">Saturday</string>
+    <string name="sunday_string">Sunday</string>
+    <string name="ten_till_seven">13:00 – 19:00</string>
+    <string name="eleven_till_seven">11:00 – 19:00</string>
+    <string name="nine_till_three">9:30 – 15:30</string>
+    <string name="ten_till_six">10:00 – 18:00</string>
+    <string name="twelve_till_seven">10:00 – 19:00</string>
+    <string name="closed">Closed</string>
+    <string name="internet_not_detected">There was no internet connection detected</string>
+
+    <string name="openinghours_firebase_key">openinghours</string>
+    <string name="monday_key">Monday</string>
+    <string name="tuesday_key">Tuesday</string>
+    <string name="wednesday_key">Wednesday</string>
+    <string name="thursday_key">Thursday</string>
+    <string name="friday_key">Friday</string>
+    <string name="saturday_key">Saturday</string>
+    <string name="sunday_key">Sunday</string>
+
+
+    <string name="short1">short</string>
+    <string name="washing">washing</string>
+    <string name="cutting">cutting</string>
+    <string name="cutting_and_drying">cutting &amp; drying</string>
+    <string name="cutting_and_styling">cutting &amp; styling</string>
+    <string name="color">colouring outgrow</string>
+    <string name="total_coloring">total colouring</string>
+    <string name="kamst_bars">kamst bars / foil</string>
+    <string name="lowlights">lowlights / foil</string>
+    <string name="extra_color">extra colour</string>
+    <string name="permanent">permanent</string>
+    <string name="mask">mask</string>
+    <string name="trimming">beard trimming</string>
+    <string name="pony">cutting ponytail</string>
+    <string name="long1">long</string>
+
+    <string name="from_fifty_five">from € 55,-</string>
+    <string name="from_forty_five">from € 45,-</string>
+    <string name="from_fifty">from € 50,-</string>
+    <string name="from_ninety">from € 90,-</string>
+
+
+</resources>
